@@ -1,0 +1,28 @@
+# YAML 1.1
+# Fichero de configuración de paquetes de personalización de Guadalinex v9
+
+# Nombre del paquete (minúsculas-separado-con-guiones)
+name: ubiquity-slideshow-guada
+
+# Autor 
+author: Josue Carmona <jcarmona@emergya.es>
+
+#Priority
+priority: optional
+
+# Section
+section: metapackages
+
+# Descripción corta
+shortdesc: "Slides for ubiquity."
+
+# Descipción larga, las lineas han de estar separadas por "\n "
+longdesc: "This package contains all slides for ubiquity in a Guadalinex distribution."
+
+
+# Versión del paquete
+version: 9.0
+
+# Cambios en esta versión
+changes:
+    - Initial release?.
