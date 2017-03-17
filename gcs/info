@@ -1,5 +1,5 @@
 # YAML 1.1
-# Fichero de configuración de paquetes de personalización de Guadalinex v9
+# Fichero de configuración de paquetes de personalización de Guadalinex v10
 
 # Nombre del paquete (minúsculas-separado-con-guiones)
 name: ubiquity-slideshow-guada
@@ -20,7 +20,7 @@ longdesc: "This package contains all slides for ubiquity in a Guadalinex distrib
 
 
 # Versión del paquete
-version: 9.0
+version: 10.0
 
 # Cambios en esta versión
 changes:
